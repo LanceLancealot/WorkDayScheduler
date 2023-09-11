@@ -4,7 +4,12 @@
 
 The Work Day Scheduler is a simple calendar application that allows users to schedule events for each hour of a typical working day (9 AM to 5 PM). This web app dynamically updates the HTML and CSS using jQuery and utilizes the Day.js library to manage date and time functionality. Users can create, save, and persist events for effective time management.
 
-![Work Day Scheduler Screenshot](screenshot.png)
+LINK: https://lancelancealot.github.io/WorkDayScheduler/
+
+SCREENSHOT:
+
+![alt text]("C:\Users\Maxfield\Pictures\Screenshots\Screenshot (5).png")
+
 
 ## Features
 
@@ -52,4 +57,4 @@ The Work Day Scheduler is a simple calendar application that allows users to sch
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/work-day-scheduler.git
+   git clone https://github.com/LanceLancealot/WorkDayScheduler.git
