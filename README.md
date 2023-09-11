@@ -8,7 +8,7 @@ LINK: https://lancelancealot.github.io/WorkDayScheduler/
 
 SCREENSHOT:
 
-![Alt text](<Screenshot (5).png>)
+![Alt text](<./assets/Screenshot (5).png>)
 
 
 ## Features
